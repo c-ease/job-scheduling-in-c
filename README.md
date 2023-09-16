@@ -1,6 +1,5 @@
-# disk-scheduling-in-c
 Disk scheduling algorithms implemented in c language: FCFS, SSTF, SCAN C-SCAN
-https://www.geeksforgeeks.org/disk-scheduling-algorithms/
+for refernce- https://www.geeksforgeeks.org/disk-scheduling-algorithms/
 
 Basically these c programs simulates the disk scheduling and must be given input while keeping in mind the following format:
 1. Number of disk blocks should be a positive integer with value < 200

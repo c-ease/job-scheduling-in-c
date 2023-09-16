@@ -6,4 +6,5 @@ Basically these c programs simulates the disk scheduling and must be given input
 1. Number of disk blocks should be a positive integer with value < 200
 2. number of requests must be a positive integer
 3. the request string should be a space separated positive integers
-4. head position must be a positive integer
+4. the direction of head (if asked) must be either 0(left) or 1(right)
+5. head position must be a positive integer
